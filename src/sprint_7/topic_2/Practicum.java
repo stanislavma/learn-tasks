@@ -1,4 +1,4 @@
-package sprint_7.topic_3;
+package sprint_7.topic_2;
 
 import java.time.*;
 import java.util.Random;

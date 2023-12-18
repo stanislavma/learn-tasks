@@ -1,4 +1,4 @@
-package sprint_7.topic_3.task2;
+package sprint_7.topic_2.task8;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

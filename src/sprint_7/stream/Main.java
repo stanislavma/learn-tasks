@@ -7,6 +7,12 @@ import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
+        int j = 1;
+
+        System.out.println(j++ - ++j);
+
+        System.out.println(j);
+
        List<Integer> numbers = new ArrayList<>();
         for (int i = 0; i < 100000; i++) {
             numbers.add(i, i);
