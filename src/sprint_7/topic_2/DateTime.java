@@ -1,4 +1,4 @@
-package sprint_7.topic_4;
+package sprint_7.topic_2;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
@@ -6,7 +6,7 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
-class Practicum {
+class DateTime {
     public static void main(String[] args) {
         // создаём экземпляр местного времени и даты
         LocalDateTime dateTime = LocalDateTime.now();
