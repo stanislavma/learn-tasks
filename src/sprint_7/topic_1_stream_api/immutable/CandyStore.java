@@ -20,6 +20,7 @@ public class CandyStore {
 
         System.out.println("Сортировка по цене");
         Arrays.sort(candies, Candy::compareByPrice);
+
         Arrays.stream(candies).forEach(Candy::printNameWithPrice);
     }
 }
